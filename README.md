@@ -2,6 +2,9 @@
 Computer vision is one of the fields of artificial intelligence that trains and enables computers to understand the visual world. Computers can use digital images and deep learning models to accurately identify and classify objects and react to them.
 The amount of data that we generate today is tremendous - 2.5 quintillion bytes of data every single day. This growth in data has proven to be one of the driving factors behind the growth of computer vision.
 
+<br>
+<img src="https://venturebeat.com/wp-content/uploads/2017/01/computer-vision.jpg?fit=2048%2C1281&strip=all" width="400"/>
+<br>
 
 ![computer-vision](https://user-images.githubusercontent.com/93095434/181162354-3f75af03-e90b-4b53-9298-7c0b1331f547.jpg)
 
