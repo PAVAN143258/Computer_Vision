@@ -5,7 +5,7 @@ The amount of data that we generate today is tremendous - 2.5 quintillion bytes 
 <br>
 <img src="https://venturebeat.com/wp-content/uploads/2017/01/computer-vision.jpg?fit=2048%2C1281&strip=all" width="400"/>
 
-<img src="[https://venturebeat.com/wp-content/uploads/2017/01/computer-vision.jpg?fit=2048%2C1281&strip=all](https://i.pcmag.com/imagery/articles/061CyMCZV6G2sXUmreKHvXS-1.fit_scale.size_1028x578.v1581020108.jpg)" width="400"/>
+<img src="https://i.pcmag.com/imagery/articles/061CyMCZV6G2sXUmreKHvXS-1.fit_scale.size_1028x578.v1581020108.jpg" width="400"/>
 <br>
 # How Does Computer Vision Work?
 Computer vision is similar to solving a jigsaw puzzle in the real world. Imagine that you have all these jigsaw pieces together and you need to assemble them in order to form a real image. That is exactly how the neural networks inside a computer vision work. Through a series of filtering and actions, computers can put all the parts of the image together and then think on their own. However, the computer is not just given a puzzle of an image - rather, it is often fed with thousands of images that train it to recognize certain objects. 
