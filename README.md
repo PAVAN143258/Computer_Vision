@@ -4,7 +4,8 @@ The amount of data that we generate today is tremendous - 2.5 quintillion bytes 
 
 <br>
 <img src="https://venturebeat.com/wp-content/uploads/2017/01/computer-vision.jpg?fit=2048%2C1281&strip=all" width="400"/>
-
+<br>
+<br>
 <img src="https://i.pcmag.com/imagery/articles/061CyMCZV6G2sXUmreKHvXS-1.fit_scale.size_1028x578.v1581020108.jpg" width="400"/>
 <br>
 # How Does Computer Vision Work?
