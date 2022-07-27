@@ -13,13 +13,20 @@ For example, instead of training a computer to look for pointy ears, long tails,
 # Computer Vision Algorithms
 Computer vision algorithms include the different methods used to understand the objects in digital images and extract high-dimensional data from the real world to produce numerical or symbolic information. There are many other computer vision algorithms involved in recognizing things in photographs. Some common ones are:
 
-Object Classification - What is the main category of the object present in this photograph? 
-Object Identification - What is the type of object present in this photograph? 
-Object Detection - Where is the object in the photograph? 
-Object Segmentation - What pixels belong to the object in the image? 
-Object Verification - Is the object in the photograph? 
-Object Recognition - What are the objects present in this photograph and where are they located?
-Object Landmark Detection - What are the key points for the object in this photograph? 
+# Object Classification
+What is the main category of the object present in this photograph? 
+# Object Identification 
+What is the type of object present in this photograph? 
+# Object Detection 
+Where is the object in the photograph? 
+# Object Segmentation 
+What pixels belong to the object in the image? 
+# Object Verification
+Is the object in the photograph? 
+# Object Recognition 
+What are the objects present in this photograph and where are they located?
+# Object Landmark Detection 
+What are the key points for the object in this photograph? 
 
 # Computer Vision Benefits
 Computer vision can automate several tasks without the need for human intervention. As a result, it provides organizations with a number of benefits:
