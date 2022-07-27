@@ -13,30 +13,33 @@ For example, instead of training a computer to look for pointy ears, long tails,
 # Computer Vision Algorithms
 Computer vision algorithms include the different methods used to understand the objects in digital images and extract high-dimensional data from the real world to produce numerical or symbolic information. There are many other computer vision algorithms involved in recognizing things in photographs. Some common ones are:
 
-# Object Classification
+### Object Classification
 What is the main category of the object present in this photograph? 
-# Object Identification 
+### Object Identification 
 What is the type of object present in this photograph? 
-# Object Detection 
+### Object Detection 
 Where is the object in the photograph? 
-# Object Segmentation 
+### Object Segmentation 
 What pixels belong to the object in the image? 
-# Object Verification
+### Object Verification
 Is the object in the photograph? 
-# Object Recognition 
+### Object Recognition 
 What are the objects present in this photograph and where are they located?
-# Object Landmark Detection 
+### Object Landmark Detection 
 What are the key points for the object in this photograph? 
 
 # Computer Vision Benefits
 Computer vision can automate several tasks without the need for human intervention. As a result, it provides organizations with a number of benefits:
 
 Faster and simpler process - Computer vision systems can carry out repetitive and monotonous tasks at a faster rate, which simplifies the work for humans.
+
 Better products and services - Computer vision systems that have been trained very well will commit zero mistakes. This will result in faster delivery of high-quality products and services.
+
 Cost-reduction - Companies do not have to spend money on fixing their flawed processes because computer vision will leave no room for faulty products and services
 
 # Computer Vision Disadvantages
 There is no technology that is free from flaws, which is true for computer vision systems. Here are a few limitations of computer vision:
 
 Lack of specialists - Companies need to have a team of highly trained professionals with deep knowledge of the differences between AI vs. Machine Learning vs. Deep Learning technologies to train computer vision systems. There is a need for more specialists that can help shape this future of technology.
+
 Need for regular monitoring - If a computer vision system faces a technical glitch or breaks down, this can cause immense loss to companies. Hence, companies need to have a dedicated team on board to monitor and evaluate these systems.
