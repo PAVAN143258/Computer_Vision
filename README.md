@@ -3,7 +3,8 @@ Computer vision is one of the fields of artificial intelligence that trains and 
 The amount of data that we generate today is tremendous - 2.5 quintillion bytes of data every single day. This growth in data has proven to be one of the driving factors behind the growth of computer vision.
 <display inline>
 <br>
-<img src="https://venturebeat.com/wp-content/uploads/2017/01/computer-vision.jpg?fit=2048%2C1281&strip=all" width="400"/>              <img src="https://i.pcmag.com/imagery/articles/061CyMCZV6G2sXUmreKHvXS-1.fit_scale.size_1028x578.v1581020108.jpg" width="400"/>
+<img src="https://venturebeat.com/wp-content/uploads/2017/01/computer-vision.jpg?fit=2048%2C1281&strip=all" width="400"/>              
+<img src="https://i.pcmag.com/imagery/articles/061CyMCZV6G2sXUmreKHvXS-1.fit_scale.size_1028x578.v1581020108.jpg" width="400"/>
 <br>
 
 # How Does Computer Vision Work?
